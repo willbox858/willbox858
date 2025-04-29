@@ -13,7 +13,7 @@ I'm a recent graduate from Champlain College, where I earned my B.S. in Game Pro
 ### 🔧 In Progress
 > Things I'm working on
 
-- [SillyNotes:](https://github.com/willbox858/SillyNotes/tree/main) A plug-in I'm "making" to experiment with AI code generation using Claude. Converts .md files into .json files.
+- [SillyNotes:](https://github.com/willbox858/SillyNotes/tree/main) A plug-in I'm "making" as an experiment with AI code generation using Claude. Converts .md files into .json files.
 
 ### 🔗 Website Links
 > You can find me here
