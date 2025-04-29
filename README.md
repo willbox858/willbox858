@@ -2,6 +2,7 @@
 > Most call me Box
 
 I'm a recent graduate from Champlain College, where I earned my B.S. in Game Programming w/ a minor in Mathematics. I'm currently exploring GPGPU programming, and wanted to use this space to publicly show off work that I'm proud of or have found interesting.
+
 [📬`william@wpbox.dev`](william@wpbox.dev) [`📱 Google Voice: ‪(858)-248-4705‬`]()
 ***
 ### 📌 Projects
